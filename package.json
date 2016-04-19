@@ -1,0 +1,17 @@
+{
+  "name": "hello-krishna",
+  "version": "2.0.0",
+  "description": "it says hello very easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krishna Nammala",
+  "license": "ISC",
+  "bin": {
+    "hello-krishna": "./hello.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
